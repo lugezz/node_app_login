@@ -1,2 +1,3 @@
-# node_app_login
-Node App Logging
+# Node App Logging
+
+Node.js Express: Login and Registration example with JWT
